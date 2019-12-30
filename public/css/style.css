@@ -1,0 +1,133 @@
+body {
+    background-color: #C14040;
+    font-family: 'Bree Serif', serif;
+    padding-left:15px;
+    padding-right: 15px;
+}
+
+nav {
+    color : #C14040;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #EFE3E3;
+    align-items: center;
+    border-radius: 20px;
+    padding:15px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #C14040 ;
+}
+
+.linkHome {
+    font-size: 25px;
+}
+
+.linkType {
+    font-size : 20px;
+}
+
+h4 {
+    color:#EFE3E3;
+    font-size:20px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.item {
+    width:33%;
+    background-color: #982C2C;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.typeItem {
+    width: 24%;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+/* Parties CSS correspondants à l'affichage du détail de chaque pokémon (url: public/pokemon/id */
+
+.containerDetail {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.itemDetail {
+    width:59%;
+    background-color: #982C2C;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    color: #EFE3E3;
+}
+
+.blockImage {
+   width: 40%; 
+}
+
+.progressBar {
+    width: 255px;
+    height: 24px;
+    background-color: #632B2B;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
+.progressBarDetail {
+    display: inline-block;
+    position: absolute;
+    height: 24px;
+    background:white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+/*
+.statistiques {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+*/
+
+table {
+    width: 100%;
+    padding-left: 10px;
+}
+
+tr {
+    vertical-align: unset;
+    color: #EFE3E3;
+}
+
+h1 {
+    color:#EFE3E3;
+    text-align: center;
+}
+
+#backLink {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: #EFE3E3;
+    font-size: medium;
+    text-align: center;
+    margin-top: 20px;
+}
+
