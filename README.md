@@ -8,4 +8,4 @@ Pokemons are sort by types. Each pokemon has his profil.
 
 ## See the Demo
 
-![demo-gif](pokedex.gif)
+![demo-gif](Pokedex.gif)
