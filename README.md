@@ -7,3 +7,5 @@ Pokemons are sort by types. Each pokemon has his profil.
 - all is developped using PHP 7.2.11 (and PDO for the database connection)
 
 ## See the Demo
+
+![demo-gif](pokedex.gif)
