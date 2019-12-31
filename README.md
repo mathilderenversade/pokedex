@@ -1,6 +1,6 @@
 # pokedex
 
-A lovely and fun project i made during my programmation courses. It's a pokemons index :-) 
+A lovely and fun project i made. It's a pokemons index :-) 
 Pokemons are sort by types. Each pokemon has his profil. 
 
 - I've used PhpMyAdmin and MySQL to generate and manage the database
